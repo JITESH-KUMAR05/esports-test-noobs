@@ -259,6 +259,12 @@ ol {
 	display: inline-block;
 	float: left;
 	padding-top: 6px;
+	
+}
+.logo-img{
+	width: 5rem;
+	height: 3rem;
+	object-fit: cover;
 }
 
 .user-panel {
