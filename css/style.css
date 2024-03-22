@@ -263,8 +263,9 @@ ol {
 }
 .logo-img{
 	width: 5rem;
-	height: 3rem;
+	height: 3.5rem;
 	object-fit: cover;
+	background-size: cover;
 }
 
 .user-panel {
